@@ -1,0 +1,2 @@
+type=command
+command=/opt/spark-2.2.0-bin-hadoop2.7/bin/spark-submit  --master yarn-client --executor-memory 1g --class com.mm.bi.publish.StatisAdEndcustomerLogDay ../out/artifacts/mmbiSpark_jar/mmbiSpark.jar

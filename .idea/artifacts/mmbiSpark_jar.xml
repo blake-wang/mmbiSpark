@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mmbiSpark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mmbiSpark_jar</output-path>
+    <root id="archive" name="mmbiSpark.jar">
+      <element id="module-output" name="mmbiSpark" />
+    </root>
+  </artifact>
+</component>
