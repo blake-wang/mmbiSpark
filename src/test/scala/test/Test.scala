@@ -1,7 +1,5 @@
 package test
 
-import com.mm.bi.utils.JdbcUtil
-
 import scala.collection.mutable.ArrayBuffer
 
 /**
